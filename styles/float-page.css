@@ -10,3 +10,16 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img {
+  width: 33%;
+  padding: .8em;
+}
+
+.nebula1 {
+  float: left;
+}
+
+.nebula2 {
+  float: right;
+}
